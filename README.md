@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Said-Ikki
-- I’m interested in anything to do with software, particularily AI and deep learning when I get good enough
+- I’m interested in anything to do with software
 - I’m currently studying to get a degree in software engineering
 <!---
 Said-Ikki/Said-Ikki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
